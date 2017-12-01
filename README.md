@@ -1,2 +1,2 @@
 # BusinessPlus-Dodo
-Cryptology application using c.
+Cryptology application using VC++.
